@@ -10,6 +10,6 @@
     <h1>PHP</h1>
     <?php
     echo "<h2>Hola</h2>"
-    >
+    ?>
 </body>
 </html>
