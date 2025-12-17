@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="idx.css">
 </head>
 <body>
-    <h1>PHP</h1>
+    <h1>PHP2</h1>
     <?php
     echo "<h2>Hola</h2>"
     ?>
